@@ -1,13 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Gómez
 ====================================================================================================================================
 
-Frontend developer
-------------------
+Angular developer
+-----------------
 
-*   🌍  I'm based in Buenos Aires, AR
-*   🖥️  See my portfolio at [this link](http://dango95.github.io/)
-*   ✉️  You can contact me at [danielgomezv2@gmail.com](mailto:danielgomezv2@gmail.com)
-*   🧠  I'm learning a bit more about Angular and started a course for backend (.NET)### Skills 
+* 🌍  I'm based in Buenos Aires, AR
+* 🖥️  See my portfolio at [this link](http://dango95.github.io/)
+* ✉️  You can contact me at [danielgomezv2@gmail.com](mailto:danielgomezv2@gmail.com)
+* 🧠  I'm learning a bit more about Angular and started a course for backend (.NET)
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -19,10 +22,16 @@ Frontend developer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/dango95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/dango95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/dango95/chat-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dango95&repo=chat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dango95/e-cart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dango95&repo=e-cart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/dango95/movies-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dango95&repo=movies-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dango95/todo-front" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dango95&repo=todo-front&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
