@@ -7,7 +7,7 @@ Angular developer
 *   🌍  I'm based in Buenos Aires, AR
 *   🖥️  See my portfolio at [this link](http://dango95.github.io/)
 *   ✉️  You can contact me at [danielgomezv2@gmail.com](mailto:danielgomezv2@gmail.com)
-*   🧠  I'm learning a bit more about Angular and started a course for backend (.NET)### Skills 
+*   🧠  I'm learning a bit more about Angular and started a course for backend (.NET)
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
